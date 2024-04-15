@@ -1,5 +1,4 @@
 import Common
-import Fyers
 import json
 import requests
 import time
