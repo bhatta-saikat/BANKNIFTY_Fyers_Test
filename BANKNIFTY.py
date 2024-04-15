@@ -2,7 +2,6 @@ import Common
 import json
 import requests
 import time
-import pyotp
 import os
 import requests
 from urllib.parse import parse_qs,urlparse
