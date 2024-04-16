@@ -12,8 +12,8 @@ Loss_Points = 10
 
 qty = LotSize*Lots
 interval = 30
-PE_Gap = 100
-CE_Gap = 100
+PE_Gap = 200
+CE_Gap = 200
 
 TotalProfit = Profit_Points*qty
 TotalLoss = Loss_Points*qty
