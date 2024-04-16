@@ -89,9 +89,9 @@ def check_Signal():
     SpotValue_PE = f'{Common_String}{StrikePrice}PE'
 
     Text2.markdown(f'BANKNIFTY-FUTURE LTP is = {LTP}')
-    Text3.markdown(f'SPOT PRICE Is= {SPOT_VALUE}')
-    Text9.markdown(f'TARGET PRICE-GAP Is= {Gap}')
-    Text4.markdown(f'TARGET StrikePrice Is= {StrikePrice}')
+    Text3.markdown(f'SPOT PRICE is= {SPOT_VALUE}')
+    Text9.markdown(f'TARGET PRICE-GAP is= {Gap}')
+    Text4.markdown(f'TARGET StrikePrice is= {StrikePrice}')
 
     # print(f'TARGET StrikePrice CODE Is= {SpotValue_PE}')
     Text7.text(f'Check {SpotValue_PE} for Trade Signal')
