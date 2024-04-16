@@ -22,7 +22,7 @@ TRADED_SYMBOL = []
 stoploss = 100
 StockSymbol = "NSE:BANKNIFTY24APRFUT"
 
-Common_String = 'NSE:BANKNIFTY24416'
+Common_String = 'NSE:BANKNIFTY24424'
 #Common_String = 'NSE:BANKNIFTY23SEP'
 
 Fin_FNOsymbol = "BANKNIFTY 22SEP23"
