@@ -22,8 +22,8 @@ TRADED_SYMBOL = []
 stoploss = 100
 StockSymbol = "NSE:BANKNIFTY24APRFUT"
 
-Common_String = 'NSE:BANKNIFTY24424'
-#Common_String = 'NSE:BANKNIFTY23SEP'
+#Common_String = 'NSE:BANKNIFTY24424'
+Common_String = 'NSE:BANKNIFTY24APR'
 
 Fin_FNOsymbol = "BANKNIFTY 22SEP23"
 localtime = time.localtime()
